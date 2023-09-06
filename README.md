@@ -1,5 +1,5 @@
 # Testes unitário, TDD e BDD
-Projeto de Testes Unitários 
+Projeto de Testes Unitários utilizando TDD e BDD.
 ## RSpec
 
    O	RSpec	 é	 uma	 biblioteca	 de	 testes	 de	 unidade	 em	Ruby	 que
